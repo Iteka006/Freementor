@@ -1,0 +1,25 @@
+{
+  "name": "freementor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iteka006/Freementor.git"
+  },
+  "author": "Iteka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iteka006/Freementor/issues"
+  },
+  "homepage": "https://github.com/Iteka006/Freementor#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "body-parser": "^1.19.0",
+    "dev-start": "^0.1.3",
+    "express": "^4.17.1"
+  }
+}
